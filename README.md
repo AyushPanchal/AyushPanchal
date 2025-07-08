@@ -103,9 +103,9 @@ GPA: 9.40/10.0
        alt="PyTorch" width="48" style="margin: 6px;" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
        alt="Hugging Face" width="48" style="margin: 6px;" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.52.0/files/dark/langchain.png"
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.52.0/files/light/langchain-color.png"
        alt="LangChain" width="48" style="margin: 6px;" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png"
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langgraph-color.png"
        alt="LangGraph" width="48" style="margin: 6px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
        alt="Feature Engineering (Scikit-learn)" width="48" style="margin: 6px;" />
@@ -115,7 +115,7 @@ GPA: 9.40/10.0
        alt="Flutter" width="48" style="margin: 6px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
        alt="Docker" width="48" style="margin: 6px;" />
-  <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=FFFFFF"
+  <img src="https://github.com/AyushPanchal/AyushPanchal/blob/main/download.png"
        alt="Flask" width="48" style="margin: 6px;" />
   <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg"
        alt="FastAPI" width="48" style="margin: 6px;" />
