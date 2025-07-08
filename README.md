@@ -32,7 +32,7 @@
 ## 🧾 About Me
 
 <div style="background-color:#0f172a; color:#f3f4f6; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:16px; line-height:1.7;">
-💡 Data Scientist with hands-on experience in machine learning 🤖, deep learning 🧠, NLP 🗣️, and generative AI 🎨. Skilled at transforming complex data into actionable insights 📊 and building scalable predictive models 📈. Proficient in Python 🐍, TensorFlow 🔶, and NLP frameworks, with a strong focus on developing innovative AI solutions to tackle real-world challenges 🌍. A collaborative team player 🤝 with excellent analytical thinking 🧮 and communication skills 🗨️.
+💡 Data Scientist with hands-on experience in machine learning 🤖, deep learning 🧠, NLP 🗣️, and generative AI 🎨. Skilled at transforming complex data into actionable insights 📊 and building scalable predictive models 📈. Proficient in Python, TensorFlow 🔶, and NLP frameworks, with a strong focus on developing innovative AI solutions to tackle real-world challenges 🌍. A collaborative team player 🤝 with excellent analytical thinking 🧮 and communication skills 🗨️.
 </div>
 
 ## 🎓 Education
