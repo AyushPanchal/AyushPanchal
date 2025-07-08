@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C7,50:6A00FF,100:00FFF7&height=200&section=header&text=Ayush%20Panchal&fontSize=60&fontColor=F8F8FF&animation=fadeIn&fontAlignY=30&desc=GenAI%20Intern%20@Relx,%20Elsevier&descAlignY=51&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C7,50:6A00FF,100:00FFF7&height=200&section=header&text=Ayush%20Panchal&fontSize=60&fontColor=F8F8FF&animation=fadeIn&fontAlignY=30&desc=GenAI%20Intern%20@Relx,%20Elsevier+%7C+NIT+Surat&descAlignY=51&descSize=16" />
 </div>
 
 <div align="center">
@@ -12,14 +12,58 @@
 </p>
 <br>
 
+## 📊 GitHub Stats
+<br>
+
+<!-- GitHub Streak and Stats Side by Side -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushPanchal&theme=blueberry&hide_border=false" width="49%" height="190" alt="AyushPanchal's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushPanchal&theme=blueberry&show_icons=true&hide_border=false&count_private=true" width="49%" height="190" alt="AyushPanchal's GitHub stats" />
+</p>
+
+
+<!-- GitHub Activity Graph Full Width -->
+<p align="left">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPanchal&bg_color=1c2230&color=9DD7FF&line=50FAAC&point=50FAAC&area=true&hide_border=false" width="97%" alt="AyushPanchal's GitHub Activity Graph" />
+  </a>
+</p>
+
 ## 🧾 About Me
 
 <div style="background-color:#0f172a; color:#f3f4f6; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:16px; line-height:1.7;">
-  From brainstorms to breakthroughs 💡 — I craft intelligent systems that scale.  <br>
-  As a Gen AI Intern at Elsevier, I explore the frontiers of NLP, RAG, and Agentic AI. <br>  
-  I’m here to decode complexity and deliver AI that speaks, reasons, and learns.  <br>
-  🔍 Whether it's predictive modeling or LLMs, I build AI that bridges insight and impact. <br>
+💡 Data Scientist with hands-on experience in machine learning 🤖, deep learning 🧠, NLP 🗣️, and generative AI 🎨. Skilled at transforming complex data into actionable insights 📊 and building scalable predictive models 📈. Proficient in Python 🐍, TensorFlow 🔶, and NLP frameworks, with a strong focus on developing innovative AI solutions to tackle real-world challenges 🌍. A collaborative team player 🤝 with excellent analytical thinking 🧮 and communication skills 🗨️.
 </div>
+
+## 🎓 Education
+
+<strong>National Institute of Technology, Surat</strong>  
+M.Tech in Computer Science and Engineering with Specialization in Data Science <br>
+<em>August 2024 – July 2026</em> <br>
+GPA: 8.81/10.0
+
+<strong>Shree Swaminarayan Institute of Technology, Gandhinagar</strong>  
+B.E in Computer Engineering  
+<em>July 2020 – July 2024</em> <br>
+GPA: 9.40/10.0
+
+## 🚀 Featured Projects
+
+### 🧠 MindGuard: AI (Alzheimer’s Disease Prediction using MRI and CNN) [📂 [Link]](https://github.com/AyushPanchal/mind-guard-ai/tree/master)
+- 📱 Developed a mobile application using modern tech stack like **Flutter** and **Machine Learning** to detect Alzheimer’s or brain tumor from **MRI scans**.
+- 📈 Achieved an **AUC ROC Score of 0.83**.
+- 🛠️ **Tools Used:** Flutter, TensorFlow, Flask, OpenCV, Firebase
+
+### 🚗 LACD (Lane and Car Detection using Computer Vision) [📂 [Link]](https://github.com/AyushPanchal/lane-and-car-detection-using-cv-and-image-processing.git)
+- 📹 A real-time computer vision system to detect and track **lane lines** and **vehicles** with **98% accuracy**.
+- 🎥 Utilizes **dash-cam footage**, **OpenCV**, and classical **image processing techniques**.
+- 🛠️ **Tools Used:** Python, OpenCV, Scikit-learn
+
+### 📰 CityChronicles (Gujarat News Hierarchy) [📂 [Link]](https://github.com/AyushPanchal/CityChronicles.git)
+- 🧩 Built an analytical tool to process & visualize Gujarat news data from **Gujarat Samachar**, extracting key insights like **summaries**, **tags**, and **sentiment**.
+- 🕸️ Web scraping powered by **Selenium** and **BeautifulSoup**.
+- 🛠️ **Tools Used:** Python, Selenium, BERT, NLTK
+
 
 ## 💻 Programming Languages
 
@@ -45,103 +89,88 @@
 
 ## 💡 Technical Skills
 
-<div align="center">
-
-  <!-- TensorFlow -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" style="margin: 6px"/>
-
-  <!-- Keras -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" style="margin: 6px"/>
-
-  <!-- OpenCV -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" style="margin: 6px"/>
-
-  <!-- PyTorch -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" style="margin: 6px"/>
-
-  <!-- Hugging Face -->
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" style="margin: 6px"/>
 
 
-  <!-- LangChain (custom) -->
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.52.0/files/dark/langchain.png" alt="LangChain" width="50" style="margin: 6px"/>
+<p align="center">
 
-  <!-- LangGraph -->
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt="LangGraph" width="40" style="margin: 6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
+       alt="TensorFlow" width="48" style="margin: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg"
+       alt="Keras" width="48" style="margin: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"
+       alt="OpenCV" width="48" style="margin: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
+       alt="PyTorch" width="48" style="margin: 6px;" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+       alt="Hugging Face" width="48" style="margin: 6px;" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.52.0/files/dark/langchain.png"
+       alt="LangChain" width="48" style="margin: 6px;" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png"
+       alt="LangGraph" width="48" style="margin: 6px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+       alt="Feature Engineering (Scikit-learn)" width="48" style="margin: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="Predictive Modeling (Python)" width="48" style="margin: 6px;" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png"
+       alt="Streamlit" width="48" style="margin: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+       alt="Flutter" width="48" style="margin: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+       alt="Docker" width="48" style="margin: 6px;" />
+  <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=FFFFFF"
+       alt="Flask" width="48" style="margin: 6px;" />
+  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg"
+       alt="FastAPI" width="48" style="margin: 6px;" />
+  <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=ffffff"
+       alt="GitHub" width="48" style="margin: 6px;" />
+</p>
 
-  <!-- RAG (custom: Databricks) -->
-  <img src="https://seeklogo.com/images/D/databricks-logo-0BFB8D8D6F-seeklogo.com.png" alt="RAG" width="40" style="margin: 6px"/>
 
-  <!-- Generative AI (OpenAI logo) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="Generative AI" width="40" style="margin: 6px"/>
+## 🛠️ IDEs & Frameworks
+<p align="left">
+  <!-- PyCharm -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="48" style="margin: 6px;" />
+      <!-- Anaconda -->
+  <img src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" alt="Anaconda" width="48" style="margin: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"
+       alt="Jupyter" width="48" style="margin: 6px;" />
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png"
+       alt="VS Code" width="48" style="margin: 6px;" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png"
+       alt="Colab" width="48" style="margin: 6px;" />
+  <!-- Kaggle -->
+  <img src="https://img.icons8.com/?size=100&id=QrYhwpUzAcoy&format=png&color=000000" alt="Kaggle" width="48" style="margin: 6px;" />
+  <!-- Android Studio -->
+  <img src="https://img.icons8.com/?size=100&id=1LAX3PYMg2iA&format=png&color=000000" alt="Android Studio" width="48" style="margin: 6px;" />
+  <!-- IntelliJ IDEA -->
+  <img src="https://img.icons8.com/?size=100&id=w1Gq29w4RQWL&format=png&color=000000" alt="IntelliJ IDEA" width="48" style="margin: 6px;" />
 
-  <!-- Agentic AI (Authelia as proxy) -->
-  <img src="https://avatars.githubusercontent.com/u/38907834?s=200&v=4" alt="Agentic AI" width="40" style="margin: 6px"/>
 
-  <!-- Vector DB (Supabase) -->
-  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Vector DB" width="40" style="margin: 6px"/>
+</p>
 
-  <!-- Graph DB (Neo4j) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Neo4j_logo.svg" alt="Graph DB" width="40" style="margin: 6px"/>
+## 📬 Connect with Me
 
-  <!-- Data Visualization (Plotly) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Plotly-logo-01-square.png" alt="Plotly" width="40" style="margin: 6px"/>
+<p align="left">
+  <a href="https://instagram.com/ayush_.a1"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" width="48" style="margin: 6px;" /></a><a href="https://linkedin.com/in/ayushbpanchal"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="48" style="margin: 6px;" /></a><a href="https://discord.com/users/ayush_.a1"><img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" alt="Discord" width="48" style="margin: 6px;" /></a><a href="https://www.youtube.com/@ayushpanchal3646"><img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="YouTube" width="48" style="margin: 6px;" /></a><a href="mailto:ayushpanchal.business@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="48" style="margin: 6px;" /></a>
+</p>
 
-  <!-- Statistical Analysis (R) -->
-  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" style="margin: 6px"/>
+## ✨ Beyond the realms
+🏋️ Fitness \
+🎮 Gaming \
+🍳 Cooking \
+⚔️ Certified Anime Weeb
 
-  <!-- Feature Engineering (Scikit-learn) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" style="margin: 6px"/>
 
-  <!-- Predictive Modeling (Python) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="margin: 6px"/>
-
-  <!-- Streamlit -->
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" style="margin: 6px"/>
-
-  <!-- Flutter -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" style="margin: 6px"/>
-
-  <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" style="margin: 6px"/>
-
-  <!-- Flask -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" style="margin: 6px"/>
-
-  <!-- FastAPI -->
-  <img src="https://user-images.githubusercontent.com/67653553/228663177-4211d1ba-8a3a-4267-8176-181f019a82f2.png" alt="FastAPI" width="40" style="margin: 6px"/>
-
-  <!-- AWS (using cloudflare as fallback visual) -->
-  <img src="https://avatars.githubusercontent.com/u/67299311?s=200&v=4" alt="AWS" width="40" style="margin: 6px"/>
-
-  <!-- Jupyter -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" style="margin: 6px"/>
-
-  <!-- VS Code -->
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="40" style="margin: 6px"/>
-
-  <!-- Colab -->
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Colab" width="40" style="margin: 6px"/>
-
-  <!-- GitHub -->
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" style="margin: 6px"/>
-
+<div align="left">
+  
+  ## 💡 "Code is poetry written in logic, and every bug is just a plot twist!"
+  
+  
+  <div align="left">
+  <img src="https://komarev.com/ghpvc/?username=AyushPanchal&color=50FAAC&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+    
 </div>
-
-
-
-
----
-
-<div align="center">
-  
-  ### 💡 "Code is poetry written in logic, and every bug is just a plot twist!"
-  
-  **Thanks for visiting!🚀**
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushPanchal&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
-  
+  <h2>Arigato Gozaimasu! ✨🤍</h2>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C7,50:6A00FF,100:00FFF7&height=100&section=footer" />
 
-</div>
+
