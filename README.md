@@ -109,8 +109,6 @@ GPA: 9.40/10.0
        alt="LangGraph" width="48" style="margin: 6px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
        alt="Feature Engineering (Scikit-learn)" width="48" style="margin: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       alt="Predictive Modeling (Python)" width="48" style="margin: 6px;" />
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png"
        alt="Streamlit" width="48" style="margin: 6px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
