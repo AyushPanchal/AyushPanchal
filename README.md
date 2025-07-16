@@ -127,6 +127,7 @@ Here's a snapshot of the tech I work with:
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" style="margin: 5px;" />
       <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="40" style="margin: 5px;" />
       <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" style="margin: 5px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" style="margin: 5px;" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" style="margin: 5px;" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" style="margin: 5px;" />
     </td>
