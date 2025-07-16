@@ -102,11 +102,11 @@ Here's a snapshot of the tech I work with:
       <strong>Backend & DevOps</strong>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" style="margin: 5px;" />
       <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="40" style="margin: 5px;" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" style="margin: 5px;" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" style="margin: 5px;" />
-    </td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" style="margin: 5px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" style="margin: 5px;" />
+      
+</td>
   </tr>
   <tr>
     <td align="center">
